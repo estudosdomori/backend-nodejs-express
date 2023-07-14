@@ -1,3 +1,1 @@
-# 😀 Isso é um teste meu amigo
-## 👍 Pode crer
-🗿 Bro.
+# Estudos sobre NodeJs e Express no back endss
